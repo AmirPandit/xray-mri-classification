@@ -210,6 +210,6 @@ All results are stored in the `results/` folder for easy analysis and visualizat
 
 ---
 
-**Developed by [Amir Pandit](mailto:tntamir2023@gmail.com)**
+**Developed by [Amir Pandit](https://www.amirpandit.com.np/#/about)**
 _Built with PyTorch, FastAPI, and ❤️_
 
