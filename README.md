@@ -21,7 +21,6 @@ This project provides a **complete medical image classification pipeline** built
 ---
 
 ## 🧩 Project Structure
-```
 
 xray-mri-classification/
 ├── data/ # Dataset directory
@@ -36,9 +35,9 @@ xray-mri-classification/
 ├── src/ # Core package (configs, utils, services)
 └── requirements.txt
 
-````
 
 ---
+```
 
 ## ⚙️ Installation Guide
 
@@ -214,6 +213,3 @@ All results are stored in the `results/` folder for easy analysis and visualizat
 **Developed by [Amir Pandit](mailto:tntamir2023@gmail.com)**
 _Built with PyTorch, FastAPI, and ❤️_
 
-```
-
-```
